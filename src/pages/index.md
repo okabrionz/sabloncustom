@@ -42,9 +42,10 @@ sections:
         title: Cool Feature of Your Services
     section_id: features
     subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
-    title: Features
+      Selain menambah rasa percaya diri yang tinggi, kaos custom juga memiliki
+      fungsi yang sangat bermanfaat dan beragam tujuan dengan mencetak kaos
+      custom.
+    title: Keunggulan Kaos Custom Sendiri
     type: section_features
   - bg: white
     reviews:
