@@ -1,19 +1,23 @@
 {
-    "links": [
-        {
-            "type": "twitter",
-            "title": "Twitter",
-            "url": "https://twitter.com/"
-        },
-        {
-            "type": "instagram",
-            "title": "Instagram",
-            "url": "https://www.instagram.com/"
-        },
-        {
-            "type": "linkedin",
-            "title": "LinkedIn",
-            "url": "https://www.linkedin.com/"
-        }
-    ]
+  "links": [
+    {
+      "type": "twitter",
+      "title": "Facebook",
+      "url": "https://www.facebook.com/Kaosloeclouthing"
+    },
+    {
+      "type": "instagram",
+      "title": "Instagram",
+      "url": "https://www.instagram.com/kaoskita88"
+    },
+    {
+      "type": "linkedin",
+      "title": "Shopee",
+      "url": "https://shopee.co.id/kaosloe"
+    },
+    {
+      "title": "Tokopedia",
+      "url": "https://www.tokopedia.com/kaoskitabanjar"
+    }
+  ]
 }
