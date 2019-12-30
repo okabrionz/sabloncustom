@@ -76,8 +76,8 @@ sections:
       - label: Get Started
         url: /signup
     section_id: call-to-action
-    subtitle: This is an optional description for the call to action block.
-    title: This Is Call To Action Block!
+    subtitle: Jadikan Harimu Lebih Berwarna Dengan Desain Kamu Sendiri!!
+    title: Tunggu Apalagi Buruan Order
     type: section_cta
 menus:
   main:
