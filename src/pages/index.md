@@ -34,11 +34,13 @@ sections:
           - label: Learn More
             url: /features
         content: >-
-          In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
-          quis venenatis sem. Proin eget massa id metus eleifend maximus sit
-          amet nec urna.
-        image: images/feature3.png
-        title: Cool Feature of Your Services
+          Buat teman-teman yang punya karya desain bingung untuk di jadikan
+          modal usaha? kami memberikan solusi mudah untuk teman-teman. Kami siap
+          menampung produksi teman-teman dalam bentuk cetak kaos satuan, Hoodie
+          dll untuk kami teruskan ke calon pembeli jasa yang order lewat Anda
+          semua.
+        image: /images/dropshipping-keyboard-feature.jpg
+        title: Dropshiper  Partner
     section_id: features
     subtitle: >-
       Selain menambah rasa percaya diri yang tinggi, kaos custom juga memiliki
