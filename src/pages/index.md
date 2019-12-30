@@ -7,7 +7,7 @@ sections:
     content: >-
       Bikin kaos dengan desain Sendiri, ciptakan trend mu sendiri dan
       ekspresikan harimu dengan gaya yang kamu mau..!
-    image: /images/shirt-2619788_1920.jpg
+    image: /images/t-shirt-printing.png
     section_id: hero
     title: Custom Shirt
     type: section_hero
