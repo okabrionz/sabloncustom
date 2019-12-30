@@ -22,7 +22,7 @@ sections:
         title: Bahan Cotton Combed
       - actions:
           - label: Learn More
-            url: /features
+            url: 'https://sabloncustom.com/signup/'
         content: >-
           Buat teman-teman yang punya karya desain bingung untuk di jadikan
           modal usaha? kami memberikan solusi mudah untuk teman-teman. Kami siap
