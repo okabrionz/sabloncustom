@@ -77,10 +77,6 @@ sections:
     subtitle: This is an optional description for the call to action block.
     title: This Is Call To Action Block!
     type: section_cta
-  - bg: gray
-    section_id: recent-posts
-    title: Latest Posts
-    type: section_posts
 menus:
   main:
     title: Home
