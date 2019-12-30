@@ -1,16 +1,6 @@
 ---
 title: Home
 sections:
-  - actions:
-      - label: Buat Sekarang
-        url: /features
-    content: >-
-      Bikin kaos dengan desain Sendiri, ciptakan trend mu sendiri dan
-      ekspresikan harimu dengan gaya yang kamu mau..!
-    image: /images/t-shirt-printing.png
-    section_id: hero
-    title: Custom Shirt
-    type: section_hero
   - bg: gray
     featureslist:
       - actions: []
@@ -48,6 +38,16 @@ sections:
       custom.
     title: Keunggulan Kaos Custom Sendiri
     type: section_features
+  - actions:
+      - label: Buat Sekarang
+        url: /features
+    content: >-
+      Bikin kaos dengan desain Sendiri, ciptakan trend mu sendiri dan
+      ekspresikan harimu dengan gaya yang kamu mau..!
+    image: /images/t-shirt-printing.png
+    section_id: hero
+    title: Custom Shirt
+    type: section_hero
   - bg: white
     reviews:
       - author: John Doe
