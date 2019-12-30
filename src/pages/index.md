@@ -22,8 +22,8 @@ sections:
           proses konsultasi dan konfirmasi. tanpa harus menunggu informasi yang
           sifatnya estafet dari pihak lain.Produk-produk yang kami buat 100%
           handmade. di kerjakan oleh kami sendiri bukan oleh pihak ke 2 atau ke
-          3. dan tentunya akan mempermudah proses konsultasi dan konfirmasi.
-          tanpa harus menunggu informasi yang sifatnya estafet dari pihak lain.
+          3. tanpa harus menunggu informasi yang sifatnya estafet dari pihak
+          lain.
         image: /images/antique-1838324_1920.jpg
         title: The Best Feature of Your Services
       - actions:
