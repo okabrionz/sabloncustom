@@ -25,7 +25,7 @@ sections:
           3. tanpa harus menunggu informasi yang sifatnya estafet dari pihak
           lain.
         image: /images/antique-1838324_1920.jpg
-        title: The Best Feature of Your Services
+        title: Proses Pembuatan Kaos
       - actions:
           - label: Learn More
             url: /features
