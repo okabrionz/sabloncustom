@@ -24,9 +24,7 @@ sections:
           lain.
         image: /images/antique-1838324_1920.jpg
         title: Proses Pembuatan Kaos
-      - actions:
-          - label: Learn More
-            url: /features
+      - actions: []
         content: >-
           Bahan katun dengan serat halus dan tidak berbulu, nyaman dan adem saat
           dipakai, pola jahitan rantai sehingga kaos lebih awet.
