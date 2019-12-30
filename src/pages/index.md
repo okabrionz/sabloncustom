@@ -13,9 +13,7 @@ sections:
     type: section_hero
   - bg: gray
     featureslist:
-      - actions:
-          - label: Learn More
-            url: /features
+      - actions: []
         content: >-
           Produk-produk yang kami buat 100% handmade. di kerjakan oleh kami
           sendiri bukan oleh pihak ke 2 atau ke 3. dan tentunya akan mempermudah
@@ -30,11 +28,10 @@ sections:
           - label: Learn More
             url: /features
         content: >-
-          Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
-          sapien interdum luctus. Cras rhoncus condimentum metus sit amet
-          auctor.
-        image: images/feature2.png
-        title: Awesome Feature of Your Services
+          Bahan katun dengan serat halus dan tidak berbulu, nyaman dan adem saat
+          dipakai, pola jahitan rantai sehingga kaos lebih awet.
+        image: /images/pilih-mana-cotton-combed-30s-atau-catton-combed-40s-1-1.jpg
+        title: Bahan Cotton Combed
       - actions:
           - label: Learn More
             url: /features
